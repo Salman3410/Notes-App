@@ -17,7 +17,7 @@ export default function App() {
         <NotesProvider>
           <ColorProvider>
             <NavigationContainer>
-              <StatusBar style="dark" />
+              <StatusBar style="light" />
               <StackNavigator />
             </NavigationContainer>
           </ColorProvider>
